@@ -1,2 +1,5 @@
 # hello-world
-Learning Github 
+
+Hi, world. 
+
+I'm gonna learn python language as fast as I can.
